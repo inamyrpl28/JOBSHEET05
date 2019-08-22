@@ -103,12 +103,15 @@ Tuliskan hasil dari operasi-operasi logika berikut
 (b)	Berapakah nilai dari variable x? 2
 
 (c)	Ubah operator prefix increment menjadi postfix increment. Berapakah nilai variable y dan x sekarang? 
-    - variabel y = 1
-    - variable x = 1
+
+- variabel y = 1
+    
+- variable x = 1
 
 (d) Jelaskan perbedaan operator prefix dan postfix berdasarkan temuan pada soal (c) 
-	  - operator prefix variable y dan x memiliki nilai 2
-	  - operator posfix variable y dan x memiliki nilai 1
+- operator prefix variable y dan x memiliki nilai 2
+
+- operator posfix variable y dan x memiliki nilai 1
 
 
 
